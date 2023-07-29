@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Unraveling software's mysteries, one algorithm at a time, I'm a curious mind in its prime. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "Wazeblog"
 
 github:
   username: Wazecode # change to your github username
